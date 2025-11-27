@@ -1,0 +1,90 @@
+{
+  "item.void_blocks.debug": "Debug Item (will be removed)",
+
+  "block.void_blocks.voidstone_rune_black": "Black Rune Void Stone",
+  "item.void_blocks.voidstone_rune_black.tooltip": "A non descript black rune",
+
+  "block.void_blocks.voidstone_rune_blue": "Blue Rune Void Stone",
+  "item.void_blocks.voidstone_rune_blue.tooltip": "A non descript blue rune",
+
+  "block.void_blocks.voidstone_rune_brown": "Brown Rune Void Stone",
+  "item.void_blocks.voidstone_rune_brown.tooltip": "A non descript brown rune",
+
+  "block.void_blocks.voidstone_rune_cyan": "Cyan Rune Void Stone",
+  "item.void_blocks.voidstone_rune_cyan.tooltip": "A non descript cyan rune",
+
+  "block.void_blocks.voidstone_rune_gray": "Gray Rune Void Stone",
+  "item.void_blocks.voidstone_rune_gray.tooltip": "A non descript gray rune",
+
+  "block.void_blocks.voidstone_rune_green": "Green Rune Void Stone",
+  "item.void_blocks.voidstone_rune_green.tooltip": "A non descript green rune",
+
+  "block.void_blocks.voidstone_rune_lightblue": "Light Blue Rune Void Stone",
+  "item.void_blocks.voidstone_rune_lightblue.tooltip": "A non descript light blue rune",
+
+  "block.void_blocks.voidstone_rune_lightgray": "Light Grat Rune Void Stone",
+  "item.void_blocks.voidstone_rune_lightgray.tooltip": "A non descript light gray rune",
+
+  "block.void_blocks.voidstone_rune_lime": "Lime Rune Void Stone",
+  "item.void_blocks.voidstone_rune_lime.tooltip": "A non descript lime rune",
+
+  "block.void_blocks.voidstone_rune_magenta": "Magenta Rune Void Stone",
+  "item.void_blocks.voidstone_rune_magenta.tooltip": "A non descript magenta rune",
+
+  "block.void_blocks.voidstone_rune_orange": "Orange Rune Void Stone",
+  "item.void_blocks.voidstone_rune_orange.tooltip": "A non descript orange rune",
+
+  "block.void_blocks.voidstone_rune_pink": "Pink Rune Void Stone",
+  "item.void_blocks.voidstone_rune_pink.tooltip": "A non descript pink rune",
+
+  "block.void_blocks.voidstone_rune_purple": "Purple Rune Void Stone",
+  "item.void_blocks.voidstone_rune_purple.tooltip": "A non descript purple rune",
+
+  "block.void_blocks.voidstone_rune_red": "Red Rune Void Stone",
+  "item.void_blocks.voidstone_rune_red.tooltip": "A non descript red rune",
+
+  "block.void_blocks.voidstone_rune_yellow": "Yellow Rune Void Stone",
+  "item.void_blocks.voidstone_rune_yellow.tooltip": "A non descript yellow rune",
+
+  "block.void_blocks.voidstone_bevel": "Beveled Void Stone",
+  "item.void_blocks.voidstone_bevel.tooltip": "Beveled Void Stone",
+
+  "block.void_blocks.voidstone_bevel_animated": "Animated Beveled Void Stone",
+  "item.void_blocks.voidstone_bevel_animated.tooltip": "Animated beveled void stone, shows shifting void behind...",
+
+  "block.void_blocks.voidstone_metal": "Metal Void Stone",
+  "item.void_blocks.voidstone_metal.tooltip": "Metal Void Stone",
+
+  "block.void_blocks.voidstone_metal_animated": "Animated Metal Void Stone",
+  "item.void_blocks.voidstone_metal_animated.tooltip": "Animated metal void stone, shows shifting void behind...",
+
+  "block.void_blocks.voidstone_eye": "Void Stone Eye",
+  "item.void_blocks.voidstone_eye.tooltip": "It seems to stare back...",
+
+  "block.void_blocks.voidstone_quarters": "Quartered Void Stone",
+  "item.void_blocks.voidstone_quarters.tooltip": "Medium panels of void stone",
+
+  "block.void_blocks.voidstone_raw": "Raw Void Stone",
+  "item.void_blocks.voidstone_raw.tooltip": "Void stone in its purest form.",
+
+  "block.void_blocks.voidstone_raw_animated": "Animated Raw Void Stone",
+  "item.void_blocks.voidstone_raw_animated.tooltip": "Void stone in its purist form. Void shifts within it as patches of active material.",
+
+  "block.void_blocks.voidstone_rune": "White Rune Void Stone",
+  "item.void_blocks.voidstone_rune.tooltip": "A non descript white rune",
+
+  "block.void_blocks.voidstone_rune_animated": "Animated White Rune Void Stone",
+  "item.void_blocks.voidstone_rune_animated.tooltip": "A non descript animated white rune",
+
+  "block.void_blocks.voidstone_skulls": "Void Stone Skulls",
+  "item.void_blocks.voidstone_skulls.tooltip": "A bunch of void stone skulls, connected as one etched faced cube.",
+
+  "block.void_blocks.voidstone_skulls_animated": "Animated Void Stone Skulls",
+  "item.void_blocks.voidstone_skulls_animated.tooltip": "A bunch of void stone skulls, connected as one etched faced cube. The void shifts within their eyes.",
+
+  "block.void_blocks.voidstone_smooth": "Large Void Stone Tiles",
+  "item.void_blocks.voidstone_smooth.tooltip": "Void Stone panels for easy grid building.",
+
+  "block.void_blocks.voidstone_smooth_animated": "Animated Large Void Stone Tiles",
+  "item.void_blocks.voidstone_smooth_animated.tooltip": "Animated Void Stone panels for easy grid building. The void shifts inside of them."
+}

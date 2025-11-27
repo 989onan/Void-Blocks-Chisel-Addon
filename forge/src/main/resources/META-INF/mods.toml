@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/989onan/void_blocks/issues"
+license = "MIT"
+
+[[mods]]
+modId = "void_blocks"
+version = "${version}"
+displayName = "Void Blocks"
+authors = "989onan"
+description = '''
+Adds Void Blocks to Chisel Reborn or Chipped
+'''
+logoFile = "assets/void_blocks/icon.png"
+
+[[dependencies.void_blocks]]
+modId = "forge"
+mandatory = true
+versionRange = "[0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.void_blocks]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20,1.20.2]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.void_blocks]]
+modId = "architectury"
+mandatory = true
+versionRange = "[0,)"
+ordering = "AFTER"
+side = "BOTH"
