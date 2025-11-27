@@ -63,6 +63,7 @@ public class RegisterBlocks
         addvoidBlock("voidstone_metal_animated");
         addvoidBlock("voidstone_eye");
         addvoidBlock("voidstone_quarters");
+        addvoidBlock("voidstone_quarters_animated");
         addvoidBlock("voidstone_raw");
         addvoidBlock("voidstone_raw_animated");
         addvoidBlock("voidstone_rune");
